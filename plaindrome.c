@@ -53,6 +53,7 @@ int main(){
         }
         break ;
       }
+    case 3: // wrong input
    default:
     printf("wrong choice:");
   }
