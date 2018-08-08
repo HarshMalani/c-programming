@@ -31,10 +31,10 @@ public:
 };
 
 int main(){
-    PhoneCall p[10],p1;
+    PhoneCall p[3],p1;
     string temp,temp1;
     float temp2;
-    for(int i=0;i<10;i++){
+    for(int i=0;i<3;i++){
         cout<<"Call to Phone Number "<<i+1<<" : ";
         cin>>temp;
         p1.setPNumb(temp);

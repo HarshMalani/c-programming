@@ -10,6 +10,7 @@ account()
 
      balance=500;
 
+
 }
 
 void createacc(int a)
